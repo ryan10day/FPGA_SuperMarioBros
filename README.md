@@ -1,5 +1,6 @@
-# FPGA_SuperMarioBros
-This project uses the DE10-Lite FPGA Board, a USB Keyboard, and a VGA display to make a two-player version of the Super Mario Bros video game. 
+# SystemVerilog-Super-Mario-Bros.-Clone-ECE-385
+
+This project uses the DE10-Lite FPGA Board, USB Keyboard, and VGA display to make a version of the Super Mario retro game. 
 
 To Get Started:
 
